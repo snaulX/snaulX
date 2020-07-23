@@ -14,7 +14,7 @@ I know:
 * [Mash](https://github.com/RoPi0n/mash-lang)
 * [OwnLang](https://github.com/aNNiMON/Own-Programming-Language-Tutorial)
 * Pascal
-* [Go](https://github.com/golang/go), [Haxe](https://github.com/HaxeFoundation/haxe), [V](https://github.com/vlang/v), wren on small level of knowledge
+* [Go](https://github.com/golang/go), [Haxe](https://github.com/HaxeFoundation/haxe), [V](https://github.com/vlang/v), [wren](https://github.com/wren-lang/wren) on small level of knowledge
 
 I work on:
 * [Mino programming language](https://github.com/mino-lang/Mino) and TokensBuilders - generators of bytecode for Mino (and other languages)
@@ -29,8 +29,18 @@ My frozen projects (will continue in future):
 My future projects:
 * [JTokensBuilder](https://github.com/mino-lang/JTokensBuilder) - TokensBuilder for JVM
 * TokensBuilder/Native - TokensBuilder based on LLVM (for native platforms)
-* Mino.Forms - crossplatform desktop GUI library for Mino
+* MinoFX - JavaFx library porting for Mino/JVM
+* Mino.GTK - GTK library porting for Mino/Native
+* Mino.WPF - WPF library porting for Mino/.NET
+* Mino.Forms - crossplatform desktop GUI library for Mino. Wrapper for libraries: MinoFX, Mino.GTK, Mino.WPF
 * Ruber - IDE for Mino. Will create on Mino using Mino.Forms
+* Mino.Android - library for creating Android apps on Mino
+* Mino.iOS - library for creating iOS apps on Mino
+* Owl - framework for creating web apps on Mino
+* Falcon - framework for creating crossplatform mobile apps on Mino. Crossplatform wrapper for Mino.Android and Mino.iOS
+* Colibri - framework for creating multi-platform (desktop; mobile; web) apps on Mino. Multi-platform wrapper for libraries: Owl, Falcon, Mino.Forms
+* Alpha Engine - game engine for creating 2d and 3d crossplatform games on Mino
+* inx( Engine) - crossplatform 2d and 3d graphics library (engine) for Mino. Will use in Alpha Engine
  
  My old projects:
 * [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) - my 3d puzzle-game on Unity for OLD#48 (game jam).
