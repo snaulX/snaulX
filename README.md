@@ -14,13 +14,23 @@ I know:
 * [Mash](https://github.com/RoPi0n/mash-lang)
 * [OwnLang](https://github.com/aNNiMON/Own-Programming-Language-Tutorial)
 * Pascal
-* Go, Haxe, V, wren on small level of knowledge
+* [Go](https://github.com/golang/go), [Haxe](https://github.com/HaxeFoundation/haxe), [V](https://github.com/vlang/v), wren on small level of knowledge
 
 I work on:
-* [Mino programming language](https://github.com/mino-lang/Mino)
+* [Mino programming language](https://github.com/mino-lang/Mino) and TokensBuilders - generators of bytecode for Mino (and other languages)
     * [Tangara](https://github.com/mino-lang/Tangara) - parser for Mino
-    * [TokensBuilder.NET](https://github.com/mino-lang/TokensBuilder.NET) - generator to CIL for Mino
+    * [TokensBuilder.NET](https://github.com/mino-lang/TokensBuilder.NET) - TokensBuilder for .NET
+    * [TokensStandart.NET](https://github.com/mino-lang/TokensStandart.NET) - standart tokens library for .NET
+    * [Tokens API](https://github.com/mino-lang/TokensAPI) - API for creating or reading tokens
+
+My frozen projects (will continue in future):
 * SUNWAR - multiplayer FPS on [Source](https://github.com/ValveSoftware/source-sdk-2013) engine.
+
+My future projects:
+* [JTokensBuilder](https://github.com/mino-lang/JTokensBuilder) - TokensBuilder for JVM
+* TokensBuilder/Native - TokensBuilder based on LLVM (for native platforms)
+* Mino.Forms - crossplatform desktop GUI library for Mino
+* Ruber - IDE for Mino. Will create on Mino using Mino.Forms
  
  My old projects:
 * [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) - my 3d puzzle-game on Unity for OLD#48 (game jam).
