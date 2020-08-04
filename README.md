@@ -20,7 +20,7 @@ I work on:
 * [Mino programming language](https://github.com/mino-lang/Mino) and TokensBuilders - generators of bytecode for Mino (and other languages)
     * [Tangara](https://github.com/mino-lang/Tangara) - parser for Mino
     * [TokensBuilder.NET](https://github.com/mino-lang/TokensBuilder.NET) - TokensBuilder for .NET
-    * [TokensStandart.NET](https://github.com/mino-lang/TokensStandart.NET) - standart tokens library for .NET
+    * [TokensStandard.NET](https://github.com/mino-lang/TokensStandard.NET) - standard tokens library for .NET
     * [Tokens API](https://github.com/mino-lang/TokensAPI) - API for creating or reading tokens
 
 My frozen projects (will continue in future):
