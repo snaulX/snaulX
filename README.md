@@ -45,7 +45,7 @@ Old:
 * [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) - my 2d RPG on [KorGE](https://github.com/korlibs/korge) for KorJAM (it game jam too).
 * Several small games that are at the bottom of my repos.
 Frozen:
-* SUNWAR - multiplayer FPS on [Source](https://github.com/ValveSoftware/source-sdk-2013) engine. - Includes to Crown Series
+* SUNWAR - multiplayer FPS on [Source](https://github.com/ValveSoftware/source-sdk-2013) engine. - Includes to Crown Series  
 Future:
 * Crown games series:
     * SUNWAR - desription upper
@@ -57,6 +57,15 @@ Future:
     * Anarchy: The Future - change main villain and hero
     * Anarchy: The Future 2 - change main villain and return old hero (from Anarchy 1/2).
     * Anarchy: The Future 3
+* Pulse Source games series:
+* Starbots games series:
+* warpax - 2D top-person shooter
+* Heroes of Melitha - 3D RPG game on Alpha Engine
+* SCP: Operation Illusion
+* Edge games series:
+   * Edge (1)
+   * Edge 2
+   * Edge 3
  
  My old projects:
 * [WoL VM](https://github.com/snaulX/virtual-machine-dotnet) - my own virtual machine on .NET for future programming languages.
