@@ -23,10 +23,7 @@ I work on:
     * [TokensStandard.NET](https://github.com/mino-lang/TokensStandard.NET) - standard tokens library for .NET
     * [Tokens API](https://github.com/mino-lang/TokensAPI) - API for creating or reading tokens
 
-My frozen projects (will continue in future):
-* SUNWAR - multiplayer FPS on [Source](https://github.com/ValveSoftware/source-sdk-2013) engine.
-
-My future projects:
+My future projects for Mino programming language:
 * [JTokensBuilder](https://github.com/mino-lang/JTokensBuilder) - TokensBuilder for JVM
 * TokensBuilder/Native - TokensBuilder based on LLVM (for native platforms)
 * MinoFX - JavaFx library porting for Mino/JVM
@@ -41,12 +38,28 @@ My future projects:
 * Colibri - framework for creating multi-platform (desktop; mobile; web) apps on Mino. Multi-platform wrapper for libraries: Owl, Falcon, Mino.Forms
 * Alpha Engine - game engine for creating 2d and 3d crossplatform games on Mino
 * inx( Engine) - crossplatform 2d and 3d graphics library (engine) for Mino. Will use in Alpha Engine
- 
- My old projects:
+
+My games:  
+Old:
 * [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) - my 3d puzzle-game on Unity for OLD#48 (game jam).
 * [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) - my 2d RPG on [KorGE](https://github.com/korlibs/korge) for KorJAM (it game jam too).
+* Several small games that are at the bottom of my repos.
+Frozen:
+* SUNWAR - multiplayer FPS on [Source](https://github.com/ValveSoftware/source-sdk-2013) engine. - Includes to Crown Series
+Future:
+* Crown games series
+** SUNWAR - desription upper
+** (Untitled project) - have idea of game but havent title :)
+** Riot - change main hero
+** Anarchy - change main hero
+** Anarchy 2
+** (Untitled project) - prologue of series
+** Anarchy: The Future - change main villain and hero
+** Anarchy: The Future 2 - change main villain and return old hero (from Anarchy 1/2).
+** Anarchy: The Future 3
+ 
+ My old projects:
 * [WoL VM](https://github.com/snaulX/virtual-machine-dotnet) - my own virtual machine on .NET for future programming languages.
 * [Visual Tokens](https://github.com/snaulX/visual-tokens) - my own visual programming environment on TornadoFX/Kotlin for hackathon.
-* Several small games that are at the bottom of my repos.
 
 ![snaulX GitHub stats](https://github-readme-stats.vercel.app/api/?username=snaulX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
