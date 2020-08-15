@@ -14,7 +14,7 @@ I know:
 * [Mash](https://github.com/RoPi0n/mash-lang)
 * [OwnLang](https://github.com/aNNiMON/Own-Programming-Language-Tutorial)
 * Pascal
-* [Go](https://github.com/golang/go), [Haxe](https://github.com/HaxeFoundation/haxe), [V](https://github.com/vlang/v), [wren](https://github.com/wren-lang/wren) on small level of knowledge
+* [Go](https://github.com/golang/go), [Haxe](https://github.com/HaxeFoundation/haxe), [V](https://github.com/vlang/v), [wren](https://github.com/wren-lang/wren), [TypeScript](https://github.com/microsoft/TypeScript) on small level of knowledge
 
 I work on:
 * [Mino programming language](https://github.com/mino-lang/Mino) and TokensBuilders - generators of bytecode for Mino (and other languages)
@@ -22,6 +22,7 @@ I work on:
     * [TokensBuilder.NET](https://github.com/mino-lang/TokensBuilder.NET) - TokensBuilder for .NET
     * [TokensStandard.NET](https://github.com/mino-lang/TokensStandard.NET) - standard tokens library for .NET
     * [Tokens API](https://github.com/mino-lang/TokensAPI) - API for creating or reading tokens
+* SCP Deleted Chronicles - 3D first-person multiplayer ... with elements of shooter. Im work how programmer.
 
 My future projects for Mino programming language:
 * [JTokensBuilder](https://github.com/mino-lang/JTokensBuilder) - TokensBuilder for JVM
@@ -43,13 +44,15 @@ My games:
 Old:
 * [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) - my 3d puzzle-game on Unity for OLD#48 (game jam).
 * [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) - my 2d RPG on [KorGE](https://github.com/korlibs/korge) for KorJAM (it game jam too).
-* Several small games that are at the bottom of my repos.
+* Several small games that are at the bottom of my repos.  
+
 Frozen:
 * SUNWAR - multiplayer FPS on [Source](https://github.com/ValveSoftware/source-sdk-2013) engine. - Includes to Crown Series  
+
 Future:
 * Crown games series:
     * SUNWAR - desription upper
-    * (Untitled project) - have idea of game but havent title :)
+    * Eye - first singleplayer game in this series. Change all - main villain, main hero, place (not all world) and time
     * Riot - change main hero
     * Anarchy - change main hero
     * Anarchy 2
@@ -58,10 +61,19 @@ Future:
     * Anarchy: The Future 2 - change main villain and return old hero (from Anarchy 1/2).
     * Anarchy: The Future 3
 * Pulse Source games series:
+   * Pulse Source (1)
+   * Pulse Source 2
+   * Pulse Source 3: Chernobyl - change place and main hero
+   * Pulse Source 4: Machine - change place and main hero
+   * Pulse Source 5: RadioCity
+   * Pulse Source 6: The Lab - change place
+   * Pulse Source 7 - ? (last part)
+   * Pulse Source 0 - prologue of series. Small game
 * Starbots games series:
 * warpax - 2D top-person shooter
 * Heroes of Melitha - 3D RPG game on Alpha Engine
 * SCP: Operation Illusion
+* Spy - spinoff for Crown games series
 * Edge games series:
    * Edge (1)
    * Edge 2
