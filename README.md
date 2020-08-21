@@ -47,37 +47,7 @@ Old:
 * Several small games that are at the bottom of my repos.  
 
 Frozen:
-* SUNWAR - multiplayer FPS on [Source](https://github.com/ValveSoftware/source-sdk-2013) engine. - Includes to Crown Series  
-
-Future:
-* Crown games series:
-    * SUNWAR - desription upper
-    * Eye - first singleplayer game in this series. Change all - main villain, main hero, place (not all world) and time
-    * Riot - change main hero
-    * Anarchy - change main hero
-    * Anarchy 2
-    * (Untitled project) - prologue of series
-    * Anarchy: The Future - change main villain and hero
-    * Anarchy: The Future 2 - change main villain and return old hero (from Anarchy 1/2).
-    * Anarchy: The Future 3
-* Pulse Source games series:
-   * Pulse Source (1)
-   * Pulse Source 2
-   * Pulse Source 3: Chernobyl - change place and main hero
-   * Pulse Source 4: Machine - change place and main hero
-   * Pulse Source 5: RadioCity
-   * Pulse Source 6: The Lab - change place
-   * Pulse Source 7 - ? (last part)
-   * Pulse Source 0 - prologue of series. Small game
-* Starbots games series:
-* warpax - 2D top-person shooter
-* Heroes of Melitha - 3D RPG game on Alpha Engine
-* SCP: Operation Illusion
-* Spy - spinoff for Crown games series
-* Edge games series:
-   * Edge (1)
-   * Edge 2
-   * Edge 3
+* SUNWAR - multiplayer FPS on [Source](https://github.com/ValveSoftware/source-sdk-2013) engine. - Includes to Crown Series 
  
  My old projects:
 * [WoL VM](https://github.com/snaulX/virtual-machine-dotnet) - my own virtual machine on .NET for future programming languages.
