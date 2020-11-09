@@ -23,6 +23,8 @@ I work on:
     * [TokensStandard.NET](https://github.com/mino-lang/TokensStandard.NET) - standard tokens library for .NET
     * [Tokens API](https://github.com/mino-lang/TokensAPI) - API for creating or reading tokens
 * SCP Deleted Chronicles - 3D first-person multiplayer ... with elements of shooter. Im work how programmer.
+* [Enigma Engine](https://github.com/world-of-legends/Enigma_Engine) - engine based on Stride-engine with Level Editor and Console and other Entity System.
+* Enigma Labs. - 3D first-person puzzle game on Stride/Enigma Engine.
 
 My future projects for Mino programming language:
 * [JTokensBuilder](https://github.com/mino-lang/JTokensBuilder) - TokensBuilder for JVM
