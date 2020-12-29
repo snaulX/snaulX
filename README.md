@@ -21,6 +21,7 @@ I am 15 y.o. programmer from Russia. I owner of [World of Legends](https://githu
 * [Alpha Engine](https://github.com/world-of-legends/Alpha_Engine)
 * Enigma Labs - 3D puzzle game
 * [Mino](https://github.com/mino-lang/Mino) and parts of it
+* [SimpleCMake](https://github.com/snaulX/SimpleCMake) - GUI utility on C# and [Avalonia](https://github.com/AvaloniaUI/Avalonia) for creating, managing, editing CMake projects. 
 
 #### My games:  
 ##### Old:
