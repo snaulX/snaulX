@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I am 15 y.o. programmer from Russia. I owner of [World of Legends](https://github.com/world-of-legends) and [Mino Foundation](https://github.com/mino-lang).
+I am 15 y.o. programmer from Russia. I owner of [Wings Studio](https://github.com/wings-studio) and [Mino Foundation](https://github.com/mino-lang).
 
 #### I know:
 * [Mino](https://github.com/mino-lang/Mino) - my own programming language (one of my favourites languages :D)
@@ -18,7 +18,7 @@ I am 15 y.o. programmer from Russia. I owner of [World of Legends](https://githu
 
 #### I work on:
 * SCP Deleted Chronicles - 3D first-person multiplayer RPG with elements of shooter. Im work how programmer.
-* [Alpha Engine](https://github.com/world-of-legends/Alpha_Engine)
+* [Alpha Engine](https://github.com/wings-studio/Alpha_Engine)
 * Enigma Labs - 3D puzzle game
 * [Mino](https://github.com/mino-lang/Mino) and parts of it
 * [SimpleCMake](https://github.com/snaulX/SimpleCMake) - GUI utility on C# and [Avalonia](https://github.com/AvaloniaUI/Avalonia) for creating, managing, editing CMake projects. 
