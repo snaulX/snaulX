@@ -19,8 +19,12 @@ Recently I have been doing more closed-source programming. So my activity on Git
 
 #### I work on:
 * SCP Deleted Chronicles - 3D first-person multiplayer RPG with elements of shooter. Im work how programmer.
-* [Enigma Engine](https://github.com/wings-studio/Enigma_Engine) - C# game engine
-* Enigma Labs - 3D puzzle game on [Stride](https://github.com/stride3d/stride) engine. If I finish Enigma Engine earlier then a game, game will continue developing using own engine.
+* [Enigma Engine](https://github.com/wings-studio/Enigma_Engine) - C# game engine:
+	* [Enigma.Graphics](https://github.com/wings-studio/Enigma.Graphics) - high-level graphics library for C#. Using in *Enigma Engine*.
+* Enigma Labs - 3D puzzle game on [Flax Engine](https://github.com/FlaxEngine/FlaxEngine). If I finish Enigma Engine earlier then a game, game will continue developing using own engine.
+#### Also my toy renderers which I writing for learning purposes
+* [ToyRendererDX11](https://github.com/snaulX/ToyRendererDX11) - toy renderer using Direct3D 11 and [Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) written on C#.
+* [ToyRenderer_GL](https://github.com/snaulX/ToyRenderer_GL) - toy renderer using OpenGL and [Silk.NET](https://github.com/dotnet/Silk.NET) written on C#.
 
 #### Frozen projects (haven't time on it):
 * [Mino](https://github.com/mino-lang/Mino) and parts of it
