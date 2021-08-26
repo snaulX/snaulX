@@ -37,7 +37,8 @@ Recently I have been doing more closed-source programming. So my activity on Git
 * [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) - my 2D RPG on [KorGE](https://github.com/korlibs/korge) for KorJAM (it game jam too).
 * Several small games that are at the bottom of my repos.  
  
-##### My old projects:
+#### My old projects:
+* [Calculator](https://github.com/snaulX/Calculator) - calculator written in one week on Java using Swing. Maybe in future rewrite it on Kotlin.
 * [WoL VM](https://github.com/snaulX/virtual-machine-dotnet) - my own virtual machine on .NET for future programming languages.
 * [Visual Tokens](https://github.com/snaulX/visual-tokens) - my own visual programming environment on TornadoFX/Kotlin for hackathon.
 
