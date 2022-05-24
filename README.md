@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I am 16 y.o. programmer from Russia. I owner of [Wings Studio](https://github.com/wings-studio) and [Mino Foundation](https://github.com/mino-lang).  
+I am 17 y.o. programmer from Russia. I owner of [Wings Studio](https://github.com/wings-studio) and [Mino Foundation](https://github.com/mino-lang).  
 Recently I have been doing more closed-source programming. So my activity on GitHub can be very low.
 
 #### I know:
