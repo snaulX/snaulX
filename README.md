@@ -5,8 +5,8 @@ Recently I have been doing more closed-source programming. So my activity on Git
 
 ### I know:
 #### Techs
-* Gamedev - my main and favourite tech. Worked on Unity, Flax, Godot, Stride. Tried to do something on Unreal, Source (mod for hl2). 
-* Android on Kotlin. Learning Retrofit and Firebase and Jetpack Compose. Tried Flutter but very little.
+* Gamedev - my main and favourite tech. Worked on [Unity](https://unity.com), [Flax](https://flaxengine.com/), [Godot](https://godotengine.org/), [Stride](https://www.stride3d.net/). Tried to do something on [Unreal](https://www.unrealengine.com/), [Source](https://developer.valvesoftware.com/wiki/Source) (mod for hl2). 
+* Android on Kotlin. Learning [Retrofit](https://square.github.io/retrofit/) and [Firebase](https://firebase.google.com/) and [Jetpack Compose](https://developer.android.com/jetpack/compose). Tried [Flutter](https://flutter.dev/) but very little.
 * Web. Backend: Node.js + Express, ASP.NET. Fornt-end: common HTML+CSS+JS (with jQuery).
 * Desktop: Avalonia, WinForms, WPF, TornadoFx.
 
@@ -15,16 +15,25 @@ Recently I have been doing more closed-source programming. So my activity on Git
 * [Kotlin](https://github.com/JetBrains/kotlin)
 * [C#](https://github.com/dotnet/csharplang)
 * Java
-* [Dart](https://github.com/dart-lang/sdk)
 * Python
 * JavaScript (HTML, CSS)
 * [V](https://github.com/vlang/v)
-* [Go](https://github.com/golang/go), [Haxe](https://github.com/HaxeFoundation/haxe), [wren](https://github.com/wren-lang/wren), [TypeScript](https://github.com/microsoft/TypeScript), [Beef](https://github.com/beefytech/Beef), [Rust](https://github.com/rust-lang/rust), [Zig](https://github.com/ziglang/zig) on small level of knowledge
+* [Rust](https://github.com/rust-lang/rust)
+* [Lua](https://github.com/lua/lua)
+* [Go](https://github.com/golang/go), [Haxe](https://github.com/HaxeFoundation/haxe), [wren](https://github.com/wren-lang/wren), [TypeScript](https://github.com/microsoft/TypeScript), [Beef](https://github.com/beefytech/Beef), [Zig](https://github.com/ziglang/zig), [Dart](https://github.com/dart-lang/sdk) on small level of knowledge
+
+#### Gamedev skills
+* Game-design - creating and working on games in *Wings Studio*.
+* Level-design - I made some custom maps for HoMM 3. Also I have [uploads](https://steamcommunity.com/id/snaulX/myworkshopfiles/) in Steam workshop with maps for Portal 2 and CS:GO.
+* Gameplay Programmer - first work in [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) on Unity and [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) on [KorGE](https://github.com/korlibs/korge) (*attention: I didn't refactor it and it was my first game, so shitty code and other stuff can spot there*). Now working in *Wings Studio* on **Enigma Labs** on Flax Engine.
+* Network Programmer - working in *FreedomBay* on **SCP Deleted Chronicles** on Unity. Using/knowledge: custom TCP C# implementation, [Mirror](https://github.com/MirrorNetworking/Mirror), [Unity Netcode for GameObjects](https://unity.com/products/netcode).
+* **Engine Developer** - main job/skill. Crafting own engine named Alpha Engine. Worked with a lot of engines before and read a lot of literature and posts about existing techs.
 
 ### I work on:
-* SCP Deleted Chronicles - 3D first-person multiplayer RPG with elements of shooter. Im work how programmer.
+* [SCP Deleted Chronicles](https://fbay.space/) - 3D first-person multiplayer RPG with elements of shooter. Im work as programmer.
 * Enigma Labs - 3D puzzle game on [Flax Engine](https://github.com/FlaxEngine/FlaxEngine). *Wings Studio* project. If I finish Enigma Engine earlier then a game, game will continue developing using own engine.
 * [Tangara](https://github.com/mino-lang/Tangara) - intermediate compilation platform for programming languages. Last work does mostly closed source.
+* Alpha Engine - own engine where all logic stored in different custom systems and engine just manipulating them. Using Tangara for load systems and call functions from them.
 
 ### Frozen for a while
 * [Enigma.Window](https://github.com/wings-studio/Enigma.Window) - C library for work with different windowing and input libraries (GLFW, SDL2 and etc).
@@ -50,6 +59,7 @@ I made own compilable programming language with changable syntax named Mino. *Wo
 * [Calculator](https://github.com/snaulX/Calculator) - calculator written in one week on Java using Swing. Maybe in future rewrite it on Kotlin.
 * [WoL VM](https://github.com/snaulX/virtual-machine-dotnet) - my own virtual machine on .NET for future programming languages.
 * [Visual Tokens](https://github.com/snaulX/visual-tokens) - my own visual programming environment on TornadoFX/Kotlin made for hackathon.
+* [C tasks - Camp August 2022](https://github.com/snaulX/c_tasks_camp) - tasks from learning C programming language and data structures (include binary heap) in camp in August 2022. Some simple tasks for learning C and data structures and own archiver using Huffman's algorithm.
 
 ![snaulX GitHub stats](https://github-readme-stats.vercel.app/api/?username=snaulX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snaulX&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
