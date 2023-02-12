@@ -55,6 +55,7 @@ I made own compilable programming language with changable syntax named Mino. *Wo
 * [Tangara](https://github.com/snaulX/Tangara) - frontend of the compiler: lexer and parser.
  
 ### My other projects:
+* SmartOffice - manage smart devices in your office from computer. Project divides on: [server](https://github.com/snaulX/SmartOffice_server) - server made on *Node.js+Express*, [client app](https://github.com/snaulX/SmartOffice_app) for managing devices (*C# & WPF*), [simulator](https://github.com/snaulX/SmartOffice_test) for simulate devices (*Java & JavaFx*). Made on hackathon in two days.
 * [RoadmapView](https://github.com/snaulX/RoadmapView) - customizable view for displaying roadmap in Android. Written on Kotlin.
 * [Calculator](https://github.com/snaulX/Calculator) - calculator written in one week on Java using Swing. Maybe in future rewrite it on Kotlin.
 * [WoL VM](https://github.com/snaulX/virtual-machine-dotnet) - my own virtual machine on .NET for future programming languages.
