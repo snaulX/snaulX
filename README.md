@@ -5,10 +5,10 @@ Recently I have been doing more closed-source programming. So my activity on Git
 
 ### I know:
 #### Techs
-* Gamedev - my main and favourite tech. Worked on [Unity](https://unity.com), [Flax](https://flaxengine.com/), [Godot](https://godotengine.org/), [Stride](https://www.stride3d.net/). Tried to do something on [Unreal](https://www.unrealengine.com/), [Source](https://developer.valvesoftware.com/wiki/Source) (mod for hl2). 
+* Gamedev - my main and favourite tech. Worked on [Unity](https://unity.com), [Flax](https://flaxengine.com/), [Godot](https://godotengine.org/), [Stride](https://www.stride3d.net/), [Defold](https://github.com/defold/defold). Tried to do something on [Unreal](https://www.unrealengine.com/), [Source](https://developer.valvesoftware.com/wiki/Source) (mod for hl2). 
 * Android on Kotlin. Learning [Retrofit](https://square.github.io/retrofit/) and [Firebase](https://firebase.google.com/) and [Jetpack Compose](https://developer.android.com/jetpack/compose). Tried [Flutter](https://flutter.dev/) but very little.
 * Web. Backend: Node.js + Express, ASP.NET. Fornt-end: common HTML+CSS+JS (with jQuery).
-* Desktop: Avalonia, WinForms, WPF, TornadoFx.
+* Desktop: Avalonia, WinForms, WPF, TornadoFx, Qt (C++).
 
 #### Programming languages
 * C/C++
@@ -31,9 +31,9 @@ Recently I have been doing more closed-source programming. So my activity on Git
 
 ### I work on:
 * [SCP Deleted Chronicles](https://fbay.space/) - 3D first-person multiplayer RPG with elements of shooter. Im work as programmer.
-* Enigma Labs - 3D puzzle game on [Flax Engine](https://github.com/FlaxEngine/FlaxEngine). *Wings Studio* project. If I finish Enigma Engine earlier then a game, game will continue developing using own engine.
 * [Tangara](https://github.com/mino-lang/Tangara) - intermediate compilation platform for programming languages. Last work does mostly closed source.
 * Alpha Engine - own engine where all logic stored in different custom systems and engine just manipulating them. Using Tangara for load systems and call functions from them.
+* Unannounced game - game in [Hades](https://www.supergiantgames.com/games/hades)-like style making on Alpha Engine.
 
 ### Frozen for a while
 * [Enigma.Window](https://github.com/wings-studio/Enigma.Window) - C library for work with different windowing and input libraries (GLFW, SDL2 and etc).
@@ -46,6 +46,7 @@ Recently I have been doing more closed-source programming. So my activity on Git
 #### Old:
 * [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) - my 3D puzzle-game on Unity for OLD#48 (game jam). It was my first expirience in gamedev and Unity.
 * [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) - my 2D RPG on [KorGE](https://github.com/korlibs/korge) for KorJAM (it game jam too).
+* [Beer Stranding](https://github.com/snaulX/Beer_Stranding) - joke 2D platformer on [Defold](https://github.com/defold/defold) for Ludum Dare 53 (was showed only in local subevent in Omsk).
 * Several small games that are at the bottom of my repos.  
  
 ### Mino programming language
