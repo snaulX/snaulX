@@ -25,7 +25,7 @@ Recently I have been doing more closed-source programming. So my activity on Git
 #### Gamedev skills
 * Game-design - creating and working on games in *Wings Studio*.
 * Level-design - I made some custom maps for HoMM 3. Also I have [uploads](https://steamcommunity.com/id/snaulX/myworkshopfiles/) in Steam workshop with maps for Portal 2 and CS:GO.
-* Gameplay Programmer - first work in [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) on Unity and [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) on [KorGE](https://github.com/korlibs/korge) (*attention: I didn't refactor it and it was my first game, so shitty code and other stuff can spot there*). Now working in *Wings Studio* on **Enigma Labs** on Flax Engine.
+* Gameplay Programmer - first work in [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) on Unity and [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) on [KorGE](https://github.com/korlibs/korge) (*attention: I didn't refactor it and it was my first game, so shitty code and other stuff can spot there*). Now working in *Wings Studio* on unannounced project.
 * Network Programmer - working in *FreedomBay* on **SCP Deleted Chronicles** on Unity. Using/knowledge: custom TCP C# implementation, [Mirror](https://github.com/MirrorNetworking/Mirror), [Unity Netcode for GameObjects](https://unity.com/products/netcode).
 * **Engine Developer** - main job/skill. Crafting own engine named Alpha Engine. Worked with a lot of engines before and read a lot of literature and posts about existing techs.
 
