@@ -1,7 +1,15 @@
 ## Hello 👋
 
-I am 17 y.o. programmer from Russia. I am owner of [Wings Studio](https://github.com/wings-studio).  
+I am 18 y.o. programmer from Russia. I am owner of [Wings Studio](https://github.com/wings-studio).  
 Recently I have been doing more closed-source programming. So my activity on GitHub can be very low.
+
+### Contacts
+* <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/telegram.svg" /> Telegram - [@snaulX](https://t.me/snaulX) - **most likely to contact me here**
+* <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/discord.svg" /> Discord - snaulX#6843
+* <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/vk.svg" /> Vk - [@snaulX](https://vk.com/snaulx)
+* <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" /> Twitter - [@snaulX](https://twitter.com/snaulX)  
+
+As you can understand, I everywhere use nickname *snaulX*, so you can search me by it ;)
 
 ### I know:
 #### Techs
@@ -44,13 +52,13 @@ Recently I have been doing more closed-source programming. So my activity on Git
 
 ### My games:  
 #### Old:
-* [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) - my 3D puzzle-game on Unity for OLD#48 (game jam). It was my first expirience in gamedev and Unity.
-* [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) - my 2D RPG on [KorGE](https://github.com/korlibs/korge) for KorJAM (it game jam too).
+* [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) - my 3D puzzle-game on Unity for Ludum Dare 45 (was showed only in local subevent in Omsk). It was my first expirience in gamedev and Unity.
+* [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) - my 2D RPG on [KorGE](https://github.com/korlibs/korge) for KorJAM (game jam for KorGE engine).
 * [Beer Stranding](https://github.com/snaulX/Beer_Stranding) - joke 2D platformer on [Defold](https://github.com/defold/defold) for Ludum Dare 53 (was showed only in local subevent in Omsk).
 * Several small games that are at the bottom of my repos.  
  
 ### Mino programming language
-I made own compilable programming language with changable syntax named Mino. *Works only simple constructions.* I don't developing it now, progress has stopped a 2 years ago.
+I made own compilable programming language with changable syntax named Mino. *Works only simple constructions.* I don't developing it now, progress has stopped a 3 years ago.
 * [Mino](https://github.com/snaulX/Mino) - repo with all binaries, examples and description of the language.
 * [TokensBuilder.NET](https://github.com/snaulX/TokensBuilder.NET) - backend of the compiler for .NET.
 * [Tangara](https://github.com/snaulX/Tangara) - frontend of the compiler: lexer and parser.
