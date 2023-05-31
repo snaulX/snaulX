@@ -4,7 +4,7 @@ I am 18 y.o. programmer from Russia. I am owner of [Wings Studio](https://github
 Recently I have been doing more closed-source programming. So my activity on GitHub can be very low.
 
 ### Contacts
-* <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/telegram.svg" /> Telegram - [@snaulX](https://t.me/snaulX) - **most likely to contact me here**
+* <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/telegram.svg" /> Telegram - [@snaulX](https://t.me/snaulX) - **most preferable to contact me here**
 * <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/discord.svg" /> Discord - snaulX#6843
 * <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/vk.svg" /> Vk - [@snaulX](https://vk.com/snaulx)
 * <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" /> Twitter - [@snaulX](https://twitter.com/snaulX)  
