@@ -17,6 +17,7 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 * Android on Kotlin. Learning [Retrofit](https://square.github.io/retrofit/) and [Firebase](https://firebase.google.com/) and [Jetpack Compose](https://developer.android.com/jetpack/compose). Tried [Flutter](https://flutter.dev/) but very little.
 * Web. Backend: Node.js + Express, ASP.NET. Fornt-end: common HTML+CSS+JS (with jQuery).
 * Desktop: Avalonia, WinForms, WPF, TornadoFx, Qt (C++).
+* Had commerical experience of writing Telegram bots with [Telethon](https://github.com/LonamiWebs/Telethon) and [peewee](https://github.com/coleifer/peewee) SQL ORM.
 
 #### Programming languages
 * C/C++
