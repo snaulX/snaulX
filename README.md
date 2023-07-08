@@ -13,11 +13,11 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 
 ### I know:
 #### Techs
-* Gamedev - my main and favourite tech. Worked on [Unity](https://unity.com), [Flax](https://flaxengine.com/), [Godot](https://godotengine.org/), [Stride](https://www.stride3d.net/), [Defold](https://github.com/defold/defold). Tried to do something on [Unreal](https://www.unrealengine.com/), [Source](https://developer.valvesoftware.com/wiki/Source) (mod for hl2). 
-* Android on Kotlin. Learning [Retrofit](https://square.github.io/retrofit/) and [Firebase](https://firebase.google.com/) and [Jetpack Compose](https://developer.android.com/jetpack/compose). Tried [Flutter](https://flutter.dev/) but very little.
-* Web. Backend: Node.js + Express, ASP.NET. Fornt-end: common HTML+CSS+JS (with jQuery).
-* Desktop: Avalonia, WinForms, WPF, TornadoFx, Qt (C++).
-* Had commerical experience of writing Telegram bots with [Telethon](https://github.com/LonamiWebs/Telethon) and [peewee](https://github.com/coleifer/peewee) SQL ORM.
+* *Gamedev* - my main and favourite tech. Worked on [Unity](https://unity.com), [Flax](https://flaxengine.com/), [Godot](https://godotengine.org/), [Stride](https://www.stride3d.net/), [Defold](https://github.com/defold/defold). Tried to do something on [Unreal](https://www.unrealengine.com/), [Source](https://developer.valvesoftware.com/wiki/Source) (mod for hl2). 
+* *Android* on Kotlin. Learning [Retrofit](https://square.github.io/retrofit/) and [Firebase](https://firebase.google.com/) and [Jetpack Compose](https://developer.android.com/jetpack/compose). Tried [Flutter](https://flutter.dev/) but very little.
+* *Web*. *Backend*: Node.js + Express, ASP.NET. *Front-end*: common HTML+CSS+JS (with jQuery).
+* *Desktop*: Avalonia, WinForms, WPF, TornadoFx, Qt (C++).
+* Had commerical experience of writing *Telegram bots* with [Telethon](https://github.com/LonamiWebs/Telethon) and [peewee](https://github.com/coleifer/peewee) SQL ORM.
 
 #### Programming languages
 * C/C++
