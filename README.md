@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I am 18 y.o. programmer from Russia. I am owner of [Wings Studio](https://github.com/wings-studio).  
+I am 18 y.o. programmer from Russia. Currently I am the student of SUAI in Saint-Petersburg and trying get into gamedev.  
 Recently I have been doing more closed-source programming. So my activity on GitHub can be very low.
 
 ### Contacts
