@@ -40,7 +40,7 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 
 ### I work on:
 * [SCP: Deleted Chronicles](https://arcanica-interactive.com/?page=main&lang=en) - 3D first-person multiplayer RPG with elements of shooter. Im work as programmer.
-* [Tangara](https://github.com/wings-studio/Tangara) ([previous version]((https://github.com/mino-lang/Tangara))) - library for easy interop between different programming languages.
+* [Tangara](https://github.com/wings-studio/Tangara) ([previous version](https://github.com/mino-lang/Tangara)) - library for easy interop between different programming languages.
 * Alpha Engine - own engine where all logic stored in different custom systems and engine just manipulating them. Using Tangara for load systems and call functions from them.
 * Unannounced game - game in [Hades](https://www.supergiantgames.com/games/hades)-like style making on Alpha Engine.
 
