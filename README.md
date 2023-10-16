@@ -40,16 +40,13 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 
 ### I work on:
 * [SCP: Deleted Chronicles](https://arcanica-interactive.com/?page=main&lang=en) - 3D first-person multiplayer RPG with elements of shooter. Im work as programmer.
-* [Tangara](https://github.com/mino-lang/Tangara) - intermediate compilation platform for programming languages. Last work does mostly closed source.
+* [Tangara](https://github.com/wings-studio/Tangara) ([previous version]((https://github.com/mino-lang/Tangara))) - library for easy interop between different programming languages.
 * Alpha Engine - own engine where all logic stored in different custom systems and engine just manipulating them. Using Tangara for load systems and call functions from them.
 * Unannounced game - game in [Hades](https://www.supergiantgames.com/games/hades)-like style making on Alpha Engine.
 
-### Frozen for a while
-* [Enigma.Window](https://github.com/wings-studio/Enigma.Window) - C library for work with different windowing and input libraries (GLFW, SDL2 and etc).
-
-#### Also my toy renderers which I wrote for learning purposes
-* [ToyRendererDX11](https://github.com/snaulX/ToyRendererDX11) - toy renderer using Direct3D 11 and [Vortice.Windows](https://github.com/amerkoleci/Vortice.Windows) written on C#. **Not working.**
-* [ToyRenderer_GL](https://github.com/snaulX/ToyRenderer_GL) - toy renderer using OpenGL and [Silk.NET](https://github.com/dotnet/Silk.NET) written on C#.
+### Contributed to:
+* Some README-only repos like [public source engines](https://github.com/redorav/public_source_engines), [awesomo](https://github.com/lk-geimfari/awesomo)
+* Added flags to control hot keys for NativeApp in [DiligentTools](https://github.com/DiligentGraphics/DiligentTools)
 
 ### My games:  
 #### Old:
@@ -65,6 +62,9 @@ I made own compilable programming language with changable syntax named Mino. *Wo
 * [Tangara](https://github.com/snaulX/Tangara) - frontend of the compiler: lexer and parser.
  
 ### My other projects:
+* [gray_to_green](https://github.com/snaulX/gray_to_green) - small web app (hosted on github pages) to convert grayscale textures to green.
+* [ToyRenderer_GL](https://github.com/snaulX/ToyRenderer_GL) - toy renderer using OpenGL and [Silk.NET](https://github.com/dotnet/Silk.NET) written on C#.
+* [Enigma.Window](https://github.com/wings-studio/Enigma.Window) - C library for work with different windowing and input libraries (GLFW, SDL2 and etc).
 * SmartOffice - manage smart devices in your office from computer. Project divides on: [server](https://github.com/snaulX/SmartOffice_server) - server made on *Node.js+Express*, [client app](https://github.com/snaulX/SmartOffice_app) for managing devices (*C# & WPF*), [simulator](https://github.com/snaulX/SmartOffice_test) for simulate devices (*Java & JavaFx*). Made on hackathon in two days.
 * [RoadmapView](https://github.com/snaulX/RoadmapView) - customizable view for displaying roadmap in Android. Written on Kotlin.
 * [Calculator](https://github.com/snaulX/Calculator) - calculator written in one week on Java using Swing. Maybe in future rewrite it on Kotlin.
