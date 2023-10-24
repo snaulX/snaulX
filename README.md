@@ -45,7 +45,7 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 * Unannounced game - game in [Hades](https://www.supergiantgames.com/games/hades)-like style making on Alpha Engine.
 
 ### Contributed to:
-* Some README-only repos like [public source engines](https://github.com/redorav/public_source_engines), [awesomo](https://github.com/lk-geimfari/awesomo)
+* Some README-only repos like [public source engines](https://github.com/redorav/public_source_engines), [awesomo](https://github.com/lk-geimfari/awesomo), [awesome rust](https://github.com/rust-unofficial/awesome-rust)
 * Added flags to control hot keys for NativeApp in [DiligentTools](https://github.com/DiligentGraphics/DiligentTools)
 
 ### My games:  
