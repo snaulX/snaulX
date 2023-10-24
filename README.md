@@ -16,7 +16,7 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 * *Gamedev* - my main and favourite tech. Worked on [Unity](https://unity.com), [Flax](https://flaxengine.com/), [Godot](https://godotengine.org/), [Stride](https://www.stride3d.net/), [Defold](https://github.com/defold/defold). Tried to do something on [Unreal](https://www.unrealengine.com/), [Source](https://developer.valvesoftware.com/wiki/Source) (mod for hl2). 
 * *Android* on Kotlin. Learning [Retrofit](https://square.github.io/retrofit/) and [Firebase](https://firebase.google.com/) and [Jetpack Compose](https://developer.android.com/jetpack/compose). Tried [Flutter](https://flutter.dev/) but very little.
 * *Web*. *Backend*: Node.js + Express, ASP.NET. *Front-end*: common HTML+CSS+JS (with jQuery).
-* *Desktop*: Avalonia, WinForms, WPF, TornadoFx, Qt (C++).
+* *Desktop*: WinForms, WPF, TornadoFx and ready to learn something new.
 * Had commerical experience of writing *Telegram bots* with [Telethon](https://github.com/LonamiWebs/Telethon) and [peewee](https://github.com/coleifer/peewee) SQL ORM.
 
 #### Programming languages
@@ -35,17 +35,17 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 * Game-design - creating and working on games in *Wings Studio*.
 * Level-design - I made some custom maps for HoMM 3. Also I have [uploads](https://steamcommunity.com/id/snaulX/myworkshopfiles/) in Steam workshop with maps for Portal 2 and CS:GO.
 * Gameplay Programmer - first work in [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) on Unity and [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) on [KorGE](https://github.com/korlibs/korge) (*attention: I didn't refactor it and it was my first game, so shitty code and other stuff can spot there*). Now working in *Wings Studio* on unannounced project.
-* Network Programmer - working in *Arcanica Interactive* on **SCP: Deleted Chronicles** on Unity. Using/knowledge: custom TCP C# implementation, [Mirror](https://github.com/MirrorNetworking/Mirror), [Unity Netcode for GameObjects](https://unity.com/products/netcode).
+* Network Programmer - working in *Arcanica Interactive* on **SCP: Deleted Chronicles** on Unity. Using/knowledge: custom TCP C# implementation, [Mirror](https://github.com/MirrorNetworking/Mirror), [Unity Netcode for GameObjects](https://unity.com/products/netcode), custom Rust implementation using [renet](https://github.com/lucaspoffo/renet).
 * **Engine Developer** - main job/skill. Crafting own engine named Alpha Engine. Worked with a lot of engines before and read a lot of literature and posts about existing techs.
 
 ### I work on:
-* [SCP: Deleted Chronicles](https://arcanica-interactive.com/?page=main&lang=en) - 3D first-person multiplayer RPG with elements of shooter. Im work as programmer.
+* [SCP: Deleted Chronicles](https://arcanica-interactive.com/?page=main&lang=en) - 3D first-person multiplayer RPG with elements of shooter. Made in Unity. I'm work as network programmer but also participate in many other sides of development.
 * [Tangara](https://github.com/wings-studio/Tangara) ([previous version](https://github.com/mino-lang/Tangara)) - library for easy interop between different programming languages.
 * Alpha Engine - own engine where all logic stored in different custom systems and engine just manipulating them. Using Tangara for load systems and call functions from them.
-* Unannounced game - game in [Hades](https://www.supergiantgames.com/games/hades)-like style making on Alpha Engine.
+* Unannounced game - game in [Hades](https://www.supergiantgames.com/games/hades)-like style making on Godot.
 
 ### Contributed to:
-* Some README-only repos like [public source engines](https://github.com/redorav/public_source_engines), [awesomo](https://github.com/lk-geimfari/awesomo), [awesome rust](https://github.com/rust-unofficial/awesome-rust)
+* Some README-only repos like [public_source_engines](https://github.com/redorav/public_source_engines), [awesomo](https://github.com/lk-geimfari/awesomo), [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 * Added flags to control hot keys for NativeApp in [DiligentTools](https://github.com/DiligentGraphics/DiligentTools)
 
 ### My games:  
