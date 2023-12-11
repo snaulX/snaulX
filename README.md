@@ -13,7 +13,7 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 
 ### I know:
 #### Techs
-* *Gamedev* - my main and favourite tech. Worked on [Unity](https://unity.com), [Flax](https://flaxengine.com/), [Godot](https://godotengine.org/), [Stride](https://www.stride3d.net/), [Defold](https://github.com/defold/defold). Tried to do something on [Unreal](https://www.unrealengine.com/), [Source](https://developer.valvesoftware.com/wiki/Source) (mod for hl2). 
+* *Gamedev* - my main and favourite tech. Worked on [Unity](https://unity.com), [Flax](https://flaxengine.com/), [Unigine](https://unigine.com/), [Godot](https://godotengine.org/), [Stride](https://www.stride3d.net/), [Defold](https://github.com/defold/defold). Tried to do something on [Unreal](https://www.unrealengine.com/), [Source](https://developer.valvesoftware.com/wiki/Source) (mod for hl2). 
 * *Android* on Kotlin. Learning [Retrofit](https://square.github.io/retrofit/) and [Firebase](https://firebase.google.com/) and [Jetpack Compose](https://developer.android.com/jetpack/compose). Tried [Flutter](https://flutter.dev/) but very little.
 * *Web*. *Backend*: Node.js + Express, ASP.NET. *Front-end*: common HTML+CSS+JS (with jQuery).
 * *Desktop*: WinForms, WPF, TornadoFx and ready to learn something new.
@@ -34,12 +34,15 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 #### Gamedev skills
 * Game-design - creating and working on games in *Wings Studio*.
 * Level-design - I made some custom maps for HoMM 3. Also I have [uploads](https://steamcommunity.com/id/snaulX/myworkshopfiles/) in Steam workshop with maps for Portal 2 and CS:GO.
-* Gameplay Programmer - first work in [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) on Unity and [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) on [KorGE](https://github.com/korlibs/korge) (*attention: I didn't refactor it and it was my first game, so shitty code and other stuff can spot there*). Now working in *Wings Studio* on unannounced project.
-* Network Programmer - working in *Arcanica Interactive* on **SCP: Deleted Chronicles** on Unity. Using/knowledge: custom TCP C# implementation, [Mirror](https://github.com/MirrorNetworking/Mirror), [Unity Netcode for GameObjects](https://unity.com/products/netcode), custom Rust implementation using [renet](https://github.com/lucaspoffo/renet).
+* Technical Artist - creating artist's pipeline for unannounced project on Godot in *Wings Studio*.
+* Gameplay Programmer - first work in [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) on Unity and [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) on [KorGE](https://github.com/korlibs/korge) (*attention: I didn't refactor it and it was my first game, so shitty code and other stuff can spot there*). Now working in *Wings Studio* on unannounced project on Godot.
+* Network Programmer - crafting netcode in *Arcanica Interactive* for **SCP: Deleted Chronicles** on Unigine (previous on Unity). Using/knowledge: custom TCP C# implementation, [Mirror](https://github.com/MirrorNetworking/Mirror), [Unity Netcode for GameObjects](https://unity.com/products/netcode), custom Rust implementation using [renet](https://github.com/lucaspoffo/renet).
+* UI Programmer - making UI system for **SCP: Deleted Chronicles**. Made system/library for programmers to easy load and manipulate UI from assets and in the game. Made easy-to-use tools for designers to make UI, import to in-game assets and checking it in the game/engine/editor. 
 * **Engine Developer** - main job/skill. Crafting own engine named Alpha Engine. Worked with a lot of engines before and read a lot of literature and posts about existing techs.
+* Other: developed many systems in *Arcanica Interactive* for **SCP: Deleted Chronicles** on Unigine using CMake/C++. This includes *Network system*, *UI system* (read about both of it higher), *Lua system* - for integrating [luau](https://luau-lang.org/) into project and having easy access to it in any part of the engine, *Editor layer* - layer that communicates between game/editor and external tools, which makes creating assets and debugging much easier.
 
 ### I work on:
-* [SCP: Deleted Chronicles](https://arcanica-interactive.com/?page=main&lang=en) - 3D first-person multiplayer RPG with elements of shooter. Made in Unity. I'm work as network programmer but also participate in many other sides of development.
+* [SCP: Deleted Chronicles](https://arcanica-interactive.com/?page=main&lang=en) - 3D first-person multiplayer RPG with elements of shooter. Made in Unigine. I'm work as network/systems/ui programmer but also participate in many other sides of development.
 * [Tangara](https://github.com/wings-studio/Tangara) ([previous version](https://github.com/mino-lang/Tangara)) - library for easy interop between different programming languages.
 * Alpha Engine - own engine where all logic stored in different custom systems and engine just manipulating them. Using Tangara for load systems and call functions from them.
 * Unannounced game - game in [Hades](https://www.supergiantgames.com/games/hades)-like style making on Godot.
