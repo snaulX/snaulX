@@ -7,7 +7,8 @@ Recently I have been doing more closed-source programming. So my activity on Git
 * <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/telegram.svg" /> Telegram - [@snaulX](https://t.me/snaulX) - **most preferable to contact me here**
 * <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/discord.svg" /> Discord - snaulX#6843
 * <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/vk.svg" /> Vk - [@snaulX](https://vk.com/snaulx)
-* <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" /> Twitter - [@snaulX](https://twitter.com/snaulX)  
+* <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" /> Twitter - [@snaulX](https://twitter.com/snaulX)
+* <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" /> [Linkedin](https://www.linkedin.com/in/snaulx/) - more info about my work experince here. Can be useful for HRs 😉
 
 As you can understand, I everywhere use nickname *snaulX*, so you can search me by it ;)
 
@@ -16,7 +17,7 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 * *Gamedev* - my main and favourite tech. Worked on [Unity](https://unity.com), [Flax](https://flaxengine.com/), [Unigine](https://unigine.com/), [Godot](https://godotengine.org/), [Stride](https://www.stride3d.net/), [Defold](https://github.com/defold/defold). Tried to do something on [Unreal](https://www.unrealengine.com/), [Source](https://developer.valvesoftware.com/wiki/Source) (mod for hl2). 
 * *Android* on Kotlin. Learning [Retrofit](https://square.github.io/retrofit/) and [Firebase](https://firebase.google.com/) and [Jetpack Compose](https://developer.android.com/jetpack/compose). Tried [Flutter](https://flutter.dev/) but very little.
 * *Web*. *Backend*: Node.js + Express, ASP.NET. *Front-end*: common HTML+CSS+JS (with jQuery).
-* *Desktop*: WinForms, WPF, TornadoFx and ready to learn something new.
+* *Desktop*: WinForms, WPF, TornadoFx, Qt5/C++ and ready to learn something new.
 * Had commerical experience of writing *Telegram bots* with [Telethon](https://github.com/LonamiWebs/Telethon) and [peewee](https://github.com/coleifer/peewee) SQL ORM.
 
 #### Programming languages
@@ -37,9 +38,10 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 * Technical Artist - creating artist's pipeline for unannounced project on Godot in *Wings Studio*.
 * Gameplay Programmer - first work in [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) on Unity and [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) on [KorGE](https://github.com/korlibs/korge) (*attention: I didn't refactor it and it was my first game, so shitty code and other stuff can spot there*). Now working in *Wings Studio* on unannounced project on Godot.
 * Network Programmer - crafting netcode in *Arcanica Interactive* for **SCP: Deleted Chronicles** on Unigine (previous on Unity). Using/knowledge: custom TCP C# implementation, [Mirror](https://github.com/MirrorNetworking/Mirror), [Unity Netcode for GameObjects](https://unity.com/products/netcode), custom Rust implementation using [renet](https://github.com/lucaspoffo/renet).
-* UI Programmer - making UI system for **SCP: Deleted Chronicles**. Made system/library for programmers to easy load and manipulate UI from assets and in the game. Made easy-to-use tools for designers to make UI, import to in-game assets and checking it in the game/engine/editor. 
+* UI Programmer - making UI system for **SCP: Deleted Chronicles**. Made system/library for programmers to easy load and manipulate UI from assets and in the game. Made easy-to-use tools for designers to make UI, import to in-game assets and checking it in the game/engine/editor.
+* Tools Programmer - I developed *Editor layer* - layer that communicates between game/editor and external tools, which makes creating assets and debugging much easier, using C++ with [gRPC](https://grpc.io/) for SCP: DELETED CHRONICLES to use in Unigine. Also I wrote some custom tools using this editor layer and Qt5/C++ for this game & engine too.
 * **Engine Developer** - main job/skill. Crafting own engine named Alpha Engine. Worked with a lot of engines before and read a lot of literature and posts about existing techs.
-* Other: developed many systems in *Arcanica Interactive* for **SCP: Deleted Chronicles** on Unigine using CMake/C++. This includes *Network system*, *UI system* (read about both of it higher), *Lua system* - for integrating [luau](https://luau-lang.org/) into project and having easy access to it in any part of the engine, *Editor layer* - layer that communicates between game/editor and external tools, which makes creating assets and debugging much easier.
+* Other programmer experience: developed many systems in *Arcanica Interactive* for **SCP: Deleted Chronicles** on Unigine using CMake/C++. This includes *Network system*, *UI system* (read about both of it higher), *Lua system* - for integrating [luau](https://luau-lang.org/) into project and having easy access to it in any part of the engine.
 
 ### I work on:
 * [SCP: Deleted Chronicles](https://arcanica-interactive.com/?page=main&lang=en) - 3D first-person multiplayer RPG with elements of shooter. Made in Unigine. I'm work as network/systems/ui programmer but also participate in many other sides of development.
