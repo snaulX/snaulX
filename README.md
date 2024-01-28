@@ -24,30 +24,27 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 * C/C++
 * [Kotlin](https://github.com/JetBrains/kotlin)
 * [C#](https://github.com/dotnet/csharplang)
+* [Rust](https://github.com/rust-lang/rust)
 * Java
 * Python
 * JavaScript (HTML, CSS)
 * [V](https://github.com/vlang/v)
-* [Rust](https://github.com/rust-lang/rust)
 * [Lua](https://github.com/lua/lua)
 * [Go](https://github.com/golang/go), [Haxe](https://github.com/HaxeFoundation/haxe), [wren](https://github.com/wren-lang/wren), [TypeScript](https://github.com/microsoft/TypeScript), [Beef](https://github.com/beefytech/Beef), [Zig](https://github.com/ziglang/zig), [Dart](https://github.com/dart-lang/sdk) on small level of knowledge
 
 #### Gamedev skills
-* Game-design - creating and working on games in *Wings Studio*.
 * Level-design - I made some custom maps for HoMM 3. Also I have [uploads](https://steamcommunity.com/id/snaulX/myworkshopfiles/) in Steam workshop with maps for Portal 2 and CS:GO.
-* Technical Artist - creating artist's pipeline for unannounced project on Godot in *Wings Studio*.
-* Gameplay Programmer - first work in [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) on Unity and [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) on [KorGE](https://github.com/korlibs/korge) (*attention: I didn't refactor it and it was my first game, so shitty code and other stuff can spot there*). Now working in *Wings Studio* on unannounced project on Godot.
+* Gameplay Programmer - first work in [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) on Unity and [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) on [KorGE](https://github.com/korlibs/korge) (*attention: I didn't refactor it and it was my first game, so shitty code and other stuff can spot there*).
 * Network Programmer - crafting netcode in *Arcanica Interactive* for **SCP: Deleted Chronicles** on Unigine (previous on Unity). Using/knowledge: custom TCP C# implementation, [Mirror](https://github.com/MirrorNetworking/Mirror), [Unity Netcode for GameObjects](https://unity.com/products/netcode), custom Rust implementation using [renet](https://github.com/lucaspoffo/renet).
 * UI Programmer - making UI system for **SCP: Deleted Chronicles**. Made system/library for programmers to easy load and manipulate UI from assets and in the game. Made easy-to-use tools for designers to make UI, import to in-game assets and checking it in the game/engine/editor.
-* Tools Programmer - I developed *Editor layer* - layer that communicates between game/editor and external tools, which makes creating assets and debugging much easier, using C++ with [gRPC](https://grpc.io/) for SCP: DELETED CHRONICLES to use in Unigine. Also I wrote some custom tools using this editor layer and Qt5/C++ for this game & engine too.
+* Tools Programmer - I developed *Editor layer* - layer that communicates between game/editor and external tools, which makes creating assets and debugging much easier, using C++ with [gRPC](https://grpc.io/) for **SCP: Deleted Chronicles** to use in Unigine. Also I wrote some custom tools using this editor layer and Qt5/C++ for this game & engine too.
 * **Engine Developer** - main job/skill. Crafting own engine named Alpha Engine. Worked with a lot of engines before and read a lot of literature and posts about existing techs.
 * Other programmer experience: developed many systems in *Arcanica Interactive* for **SCP: Deleted Chronicles** on Unigine using CMake/C++. This includes *Network system*, *UI system* (read about both of it higher), *Lua system* - for integrating [luau](https://luau-lang.org/) into project and having easy access to it in any part of the engine.
 
 ### I work on:
 * [SCP: Deleted Chronicles](https://arcanica-interactive.com/?page=main&lang=en) - 3D first-person multiplayer RPG with elements of shooter. Made in Unigine. I'm work as network/systems/ui programmer but also participate in many other sides of development.
-* [Tangara](https://github.com/wings-studio/Tangara) ([previous version](https://github.com/mino-lang/Tangara)) - library for easy interop between different programming languages.
+* [Tangara](https://github.com/snaulX/Tangara) ([previous version](https://github.com/snaulX/Tangara_old)) - library for easy interop between different programming languages.
 * Alpha Engine - own engine where all logic stored in different custom systems and engine just manipulating them. Using Tangara for load systems and call functions from them.
-* Unannounced game - game in [Hades](https://www.supergiantgames.com/games/hades)-like style making on Godot.
 
 ### Contributed to:
 * Some README-only repos like [public_source_engines](https://github.com/redorav/public_source_engines), [awesomo](https://github.com/lk-geimfari/awesomo), [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
@@ -57,19 +54,18 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 #### Old:
 * [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) - my 3D puzzle-game on Unity for Ludum Dare 45 (was showed only in local subevent in Omsk). It was my first expirience in gamedev and Unity.
 * [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) - my 2D RPG on [KorGE](https://github.com/korlibs/korge) for KorJAM (game jam for KorGE engine).
-* [Beer Stranding](https://github.com/snaulX/Beer_Stranding) - joke 2D platformer on [Defold](https://github.com/defold/defold) for Ludum Dare 53 (was showed only in local subevent in Omsk).
 * Several small games that are at the bottom of my repos.  
  
 ### Mino programming language
 I made own compilable programming language with changable syntax named Mino. *Works only simple constructions.* I don't developing it now, progress has stopped a 3 years ago.
 * [Mino](https://github.com/snaulX/Mino) - repo with all binaries, examples and description of the language.
 * [TokensBuilder.NET](https://github.com/snaulX/TokensBuilder.NET) - backend of the compiler for .NET.
-* [Tangara](https://github.com/snaulX/Tangara) - frontend of the compiler: lexer and parser.
+* [Tangara](https://github.com/snaulX/Mino_Tangara) - frontend of the compiler: lexer and parser.
  
 ### My other projects:
 * [gray_to_green](https://github.com/snaulX/gray_to_green) - small web app (hosted on github pages) to convert grayscale textures to green.
 * [ToyRenderer_GL](https://github.com/snaulX/ToyRenderer_GL) - toy renderer using OpenGL and [Silk.NET](https://github.com/dotnet/Silk.NET) written on C#.
-* [Enigma.Window](https://github.com/wings-studio/Enigma.Window) - C library for work with different windowing and input libraries (GLFW, SDL2 and etc).
+* [Enigma.Window](https://github.com/snaulX/Enigma.Window) - C library for work with different windowing and input libraries (GLFW, SDL2 and etc).
 * SmartOffice - manage smart devices in your office from computer. Project divides on: [server](https://github.com/snaulX/SmartOffice_server) - server made on *Node.js+Express*, [client app](https://github.com/snaulX/SmartOffice_app) for managing devices (*C# & WPF*), [simulator](https://github.com/snaulX/SmartOffice_test) for simulate devices (*Java & JavaFx*). Made on hackathon in two days.
 * [RoadmapView](https://github.com/snaulX/RoadmapView) - customizable view for displaying roadmap in Android. Written on Kotlin.
 * [Calculator](https://github.com/snaulX/Calculator) - calculator written in one week on Java using Swing. Maybe in future rewrite it on Kotlin.
