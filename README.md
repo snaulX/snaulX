@@ -20,19 +20,19 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 * *Desktop*: WinForms, WPF, TornadoFx, Qt5/C++ and ready to learn something new.
 * Had commerical experience of writing *Telegram bots* with [Telethon](https://github.com/LonamiWebs/Telethon) and [peewee](https://github.com/coleifer/peewee) SQL ORM.
 
-#### Programming languages
-* C/C++
-* [Kotlin](https://github.com/JetBrains/kotlin)
-* [C#](https://github.com/dotnet/csharplang)
-* [Rust](https://github.com/rust-lang/rust)
+#### Programming languages/experience
+* C/C++ - 4+ years
+* [Kotlin](https://github.com/JetBrains/kotlin) - 4+ years
+* [C#](https://github.com/dotnet/csharplang) - 5+ years
+* [Rust](https://github.com/rust-lang/rust) - 2+ years
 * Java
-* Python
+* Python - 5+ years
 * JavaScript (HTML, CSS)
 * [V](https://github.com/vlang/v)
-* [Lua](https://github.com/lua/lua)
+* [Lua](https://github.com/lua/lua) - 2+ years
 * [Go](https://github.com/golang/go), [Haxe](https://github.com/HaxeFoundation/haxe), [wren](https://github.com/wren-lang/wren), [TypeScript](https://github.com/microsoft/TypeScript), [Beef](https://github.com/beefytech/Beef), [Zig](https://github.com/ziglang/zig), [Dart](https://github.com/dart-lang/sdk) on small level of knowledge
 
-#### Gamedev skills
+#### Gamedev skills/experience
 * Level-design - I made some custom maps for HoMM 3. Also I have [uploads](https://steamcommunity.com/id/snaulX/myworkshopfiles/) in Steam workshop with maps for Portal 2 and CS:GO.
 * Gameplay Programmer - first work in [SCP snaulX Edition](https://github.com/snaulX/scp-snaulx-edition) on Unity and [Heroes of Melitha](https://github.com/snaulX/Heroes-of-Melitha) on [KorGE](https://github.com/korlibs/korge) (*attention: I didn't refactor it and it was my first game, so shitty code and other stuff can spot there*).
 * Network Programmer - crafting netcode in *Arcanica Interactive* for **SCP: Deleted Chronicles** on Unigine (previous on Unity). Using/knowledge: custom TCP C# implementation, [Mirror](https://github.com/MirrorNetworking/Mirror), [Unity Netcode for GameObjects](https://unity.com/products/netcode), custom Rust implementation using [renet](https://github.com/lucaspoffo/renet).
@@ -57,7 +57,7 @@ As you can understand, I everywhere use nickname *snaulX*, so you can search me 
 * Several small games that are at the bottom of my repos.  
  
 ### Mino programming language
-I made own compilable programming language with changable syntax named Mino. *Works only simple constructions.* I don't developing it now, progress has stopped a 3 years ago.
+I made own compilable programming language with changable syntax named Mino. *Works only simple constructions.* I don't developing it now, progress has stopped a 4 years ago.
 * [Mino](https://github.com/snaulX/Mino) - repo with all binaries, examples and description of the language.
 * [TokensBuilder.NET](https://github.com/snaulX/TokensBuilder.NET) - backend of the compiler for .NET.
 * [Tangara](https://github.com/snaulX/Mino_Tangara) - frontend of the compiler: lexer and parser.
