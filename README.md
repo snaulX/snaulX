@@ -63,6 +63,7 @@ I made own compilable programming language with changable syntax named Mino. *Wo
 * [Tangara](https://github.com/snaulX/Mino_Tangara) - frontend of the compiler: lexer and parser.
  
 ### My other projects:
+* [Particles Test Task](https://github.com/snaulX/ParticlesTask) - test task for C++ Programmer (Gamedev) to make fireworks by clicking mouse.
 * [gray_to_green](https://github.com/snaulX/gray_to_green) - small web app (hosted on github pages) to convert grayscale textures to green.
 * [ToyRenderer_GL](https://github.com/snaulX/ToyRenderer_GL) - toy renderer using OpenGL and [Silk.NET](https://github.com/dotnet/Silk.NET) written on C#.
 * [Enigma.Window](https://github.com/snaulX/Enigma.Window) - C library for work with different windowing and input libraries (GLFW, SDL2 and etc).
